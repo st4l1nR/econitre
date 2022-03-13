@@ -4,3 +4,16 @@
 /* Your own custom component styles */
 
 @import 'tailwindcss/utilities';
+
+@layer components {
+    .btn-primary {
+        @apply flex items-center justify-center px-4 py-2 text-black uppercase bg-transparent border border-black hover:bg-gray-800 hover:text-white;
+    }
+    .grd-primary {
+        @apply bg-gradient-to-r from-[#9AF094] to-[#6AC17D]
+    }
+
+    .btn-secondary {
+        @apply flex items-center justify-center px-4 py-2 uppercase bg-gradient-to-r from-[#9AF094] to-[#6AC17D] filter hover:brightness-125 text-white fill-white;
+    }
+}
