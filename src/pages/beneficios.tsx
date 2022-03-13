@@ -8,7 +8,6 @@ const beneficios = () => {
           <Image
             src="/images/tim-hufner-w2AGjTzCVKw-unsplash.jpg"
             alt="siembra de maiz"
-            alt="hombre cargando leche"
             layout="fill"
             objectFit="cover"
           />
