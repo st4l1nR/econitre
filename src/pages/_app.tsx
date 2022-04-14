@@ -16,11 +16,11 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
         <meta
           name="keywords"
-          content="silo, silos, maiz, vacas, bovino , ecuador, silos de maiz, venta de silos, venta de silos de maiz, venta de silos de maiz ecuador, venta de silos de maiz santo domingo, venta silos de maiz en ecuador, alimento para ganado, alimento para ganado bovino, alimento para vacas,  agricultura, agronomia"
+          content="silo de maiz, silos de maiz, silos de maiz, silos de maiz ecuador, venta de silos, venta de silos de maiz, venta de silos de maiz ecuador, venta de silos de maiz santo domingo, venta silos de maiz en ecuador, alimento para ganado, alimento para ganado bovino, alimento para vacas"
         />
         <meta name="author" content="Econitre" />
         <meta name="description" content="Econitre | Venta de silos de maiz" />
-        <meta property="og:title" content="Econitre | Venta de silos de maiz" />
+        <meta property="og:title" content="El mejor silo de maíz de todo el Ecuador" />
         <meta
           property="og:description"
           content="Venta de silos de maiz en Ecuador"
