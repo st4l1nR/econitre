@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
       <div>{children}</div>
       <Footer />
       <a
-        href="https://wa.me/593979372502?lang=es"
+        href="https://wa.me/593962742657?lang=es"
         className="fixed bottom-0 left-0 p-3"
         target="_blank"
       >

@@ -34,7 +34,7 @@ const index = () => {
             </div>
             <div className="flex flex-col flex-1">
               <span>Telf: 022761995</span>
-              <span>Cel: +593 97 937 2502</span>
+              <span>Cel: +593 96 274 2657</span>
             </div>
           </div>
           <div className="flex items-center pl-2 space-x-5">

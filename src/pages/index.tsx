@@ -148,7 +148,7 @@ const index = () => {
         </div>
         <Link href="/beneficios">
           <button className="w-56 mx-auto rounded-full btn-primary">
-            Ver más
+            Ver más 
           </button>
         </Link>
       </div>
